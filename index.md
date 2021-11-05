@@ -1,6 +1,8 @@
 ## PancakesGame Bot FAQ
 
-W
+Discord Bot Made by: ZeepYt
+Builder: https://autocode.com
+Discord Server owned by: [PancakesGame](https://www.youtube.com/channel/UCXeXnNPn55xp6dZzSt2Ea1Q)
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
